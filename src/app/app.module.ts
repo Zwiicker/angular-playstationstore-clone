@@ -6,6 +6,8 @@ import { AppComponent } from './app.component';
 import { HomeComponent } from './pages/home/home.component';
 import { CardsComponent } from './components/cards/cards.component';
 import { MenuBarComponent } from './components/menu-bar/menu-bar.component';
+import { CardLabelComponent } from './components/cards/card-label/card-label.component';
+import { CardPricingComponent } from './components/cards/card-pricing/card-pricing.component';
 
 
 @NgModule({
@@ -14,6 +16,8 @@ import { MenuBarComponent } from './components/menu-bar/menu-bar.component';
     HomeComponent,
     CardsComponent,
     MenuBarComponent,
+    CardLabelComponent,
+    CardPricingComponent,
 
   ],
   imports: [
