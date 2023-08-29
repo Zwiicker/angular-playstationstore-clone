@@ -1,27 +1,31 @@
-# Playstation
+<div align="center"><img align="" width="150px" src="/angular-santander.png">
+  
+ # Angular Playstation Store
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
+<br /><br />
 
-## Development server
+  Application developed during the Bootcamp Santander Bootcamp 2023 - Fullstack Java + Angular by [DIO](https://web.dio.me/) <br /><br />
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+</div> 
 
-## Code scaffolding
+##  View project running 
+  
+ <br /><br /> [![Deploy with Vercel](https://vercel.com/button)](https://angular-playstationstore-clone.vercel.app/)<br /><br />
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## About
+  
+Application of a Playstation Store Clone developed in Angular, Typescript, HTML and CSS . <br /><br /> 
+    
+## Programming languages and tools
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<p align="left">
+    <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=typescript&sort="><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/</a> 
+   <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=angular&sort="><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a> 
+  <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=html&sort="><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
+   <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=css&sort="><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
+  <a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+  
+</p>
+<br /><br />
